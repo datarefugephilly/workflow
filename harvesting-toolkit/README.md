@@ -117,5 +117,5 @@ During the process you may feel inclined to clean things up, add structure to th
   - If ever a day or more passed since you originally claimed the item, update the date to today's date. 
   - Note that if more than 2 days have passed since you claimed the dataset and it is still not closed, someone else can claim it in your place and start working on it
     - This will avoid datasets being stuck in the middle of the workflow and not being finalized.
-- You'r done! Stand up, do a happy dance, and move on to the next url!
+- You're done! Stand up, do a happy dance, and move on to the next url!
 
