@@ -14,7 +14,7 @@ Seeders and Sorters will use the EDGI subprimer systems ([found here](https://en
     - If URL's are crawlable, nominate them to the EOT crawl using the [EDGI Nomination Tool](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en)
     - If they are not crawlable, add them to the "Uncrawlable" spreadsheet, generating a UUID for this dataset.  the web-based tool [UUID Generator](https://www.uuidgenerator.net) can generate individual or multiple UUID's.
 
-### 2. Researchers(research.md)
+### 2. [Researchers](research.md)
 Researchers inspect the "uncrawlable" list to confirm that seeders' assessments were correct (that is, that the URL/dataset is indeed uncrawlable). [Research.md](research.md) describes this process in more detail. 
 
 *Often this step is incorporated into either "Seeding and Sorting" or "Harvesting".*
