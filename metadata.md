@@ -1,4 +1,4 @@
-# CKAN/METADATA
+# Describers: CKAN/METADATA
 
 - Getting set up as a Describer
   - Ask DataRescue guide for a CKAN account
