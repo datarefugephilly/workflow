@@ -21,4 +21,4 @@ The best source of information about the seeding and sorting process is represen
   
 - If a URL does not seem crawlable:
   - It is added to the Unscrawlable spreadsheet (Cell "Original URL").
-  - A unique identifyer (UUID) is generated for this dataset. the web-based tool UUID Generator can generate individual or multiple UUID's.
+  - A unique identifyer (UUID) is generated for this dataset. The web-based tool UUID Generator can generate individual or multiple UUID's.
