@@ -1,11 +1,11 @@
 # BAGGING
 
 - Getting set up as a Bagger
-  - Talk to your DataRescue Coordinator to make sure you can become a Bagger.
+  - Talk to your DataRescue guide to make sure you can become a Bagger.
   - Get set up with Python and the Python script to make a bag at the command line https://github.com/LibraryOfCongress/bagit-python
   - Get set up wit the app http://drp-upload-bagger.herokuapp.com/
-    - This include getting an account for the app and getting the account ok'd by the DataRescue Coordinator.
-  - Contact your DataRescue Coordinator, if you need any assistance.
+    - This include getting an account for the app and getting the account ok'd by the DataRescue guide.
+  - Contact your DataRescue guide, if you need any assistance.
 
 - Claiming a dataset for bagging 
   - You will work on datasets that were last handled by Checkers. 
@@ -63,7 +63,10 @@
   - Zip this entire collection (data folder and bagit files) and confirm that it is named with the row's UUID
   - Upload the zipped bag using the application http://drp-upload-bagger.herokuapp.com/
     - Note that files beyond 5 Gigs cannot be uploaded through this method
-    -   Please talk to your DataRescue coordinator, if you have a larger file
+      - Please talk to your DataRescue guide, if you have a larger file
+  - Enter URL in cell "Bag URL"
+      - The syntax will be "[UrlStub]/[UUID].zip
+      - The UrlStub for your DataRescue group will be provided by your DataRescue guide
     
 - Quality assurance and finishing up
   - To ensure that the bag was uploaded successfully, go to the URL and download the bag back to your laptop. 
