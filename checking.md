@@ -36,7 +36,7 @@
     -  Note that files beyond 5 Gigs cannot be uploaded through this method
       - Please talk to your DataRescue guide, if you have a larger file
   - Quality assurance: 
-    - to ensure that the zip file was uploaded successfully, go to the URL and download the it back to your laptop. 
+    - To ensure that the zip file was uploaded successfully, go to the URL and download it back to your laptop. 
     - Unzip it, open it and spot check to make sure that all the files are there and seem valid.
   
 - Finishing up
