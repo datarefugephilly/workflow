@@ -8,7 +8,7 @@
 
 - Claiming a dataset for bagging 
   - You will work on datasets that were last handled by Checkers. 
-  - Go to the Unscrawlable spreadsheet, and look for a dataset that has the status "Bagger status indicator" = Closed
+  - Go to the Unscrawlable spreadsheet, and look for a dataset that has the status "Checker status indicator" = Closed
   - Claim it by entering your slack handle with the status "Open" and the date in the cell "Bagger status indicator" in Bagger section, for instance: 
   ```
   @khdelphine open 1/22/2017
