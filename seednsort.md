@@ -19,4 +19,4 @@ The best source of information about the seeding and sorting process is represen
   This sorting is only provisional: when in doubt seeders mark a URL as possibly
   *not* crawlable, and these URLs populate a spreadsheet.
   
-* If a URL does not seem crawlable, add it to the Unscrawlable spreadsheet (Cell "Original URL").
+* If a URL does not seem crawlable, it is added to the Unscrawlable spreadsheet (Cell "Original URL").
