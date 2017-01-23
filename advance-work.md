@@ -1,6 +1,8 @@
 
 ## Advance work
 
+XXX NOT YET REVIEWED TO MAKE IT "REMOTE WORKFLOW COMPLIANT" -- I WILL DO IT TONIGHT (01/23/2017) (@KHDELPHINE)
+
 There are lots of ways to prepare for an event. This document highlights only the technical aspects of preparation. There are lots of logistical and other aspects to look out for as well, but this is the minimum needed to use the workflow outlined in this repository.  
 
 Before starting, your team should: 
