@@ -3,7 +3,7 @@
 This document describes the process that a url/dataset goes through from the time it has been identified by a [seeder & sorter](https://github.com/datarefugephilly/workflow/blob/master/seednsort.md) as "uncrawlable" until it is made available as a record in the [datarefuge.org](http://www.datarefuge.org) ckan data catalog. The process involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
 
 ## [Before you begin](advance-work.md)
-Get a role assignment (e.g., Seeder, or Harverster), get account credentials needed for your role, and go over the workflow corresponding to your role. 
+Get a role assignment (e.g., Seeder, or Harvester), get account credentials needed for your role, and go over the workflow corresponding to your role. 
 
 ## Plan Overview
 ### 1. [Seeders/Sorters](seednsort.md)
@@ -14,8 +14,8 @@ Seeders and Sorters will use the EDGI subprimer systems ([found here](https://en
     - If URL's are crawlable, nominate them to the EOT crawl using the [EDGI Nomination Tool](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en)
     - If they are not crawlable, add them to the "Uncrawlable" spreadsheet, generating a UUID for this dataset.  the web-based tool [UUID Generator](https://www.uuidgenerator.net) can generate individual or multiple UUID's.
 
-### 2. Researchers
-Researchers inspect the "uncrawlable" list to confirm that seeders' assessments were correct (that is, that the URL/dataset is indeed uncrawlable. [Research.md](research.md) describes this process in more detail. 
+### 2. Researchers(research.md)
+Researchers inspect the "uncrawlable" list to confirm that seeders' assessments were correct (that is, that the URL/dataset is indeed uncrawlable). [Research.md](research.md) describes this process in more detail. 
 
 *Often this step is incorporated into either "Seeding and Sorting" or "Harvesting".*
 
