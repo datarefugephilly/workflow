@@ -1,6 +1,6 @@
 # CKAN/METADATA
 
-- Getting set up as a Bagger
+- Getting set up as a Describer
   - Ask DataRescue guide for a CKAN account
   - Log into the CKAN instance at https://www.datarefuge.org/
 
