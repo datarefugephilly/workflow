@@ -31,11 +31,16 @@
   - You should add any missing file or metadata information to the dataset
   - Please refer to the [Harvesting Tookit](https://github.com/datarefugephilly/workflow/tree/FinalizeRemote-Delphine/harvesting-toolkit) for more details
  
-- If you have made any changes to the dataset, zip the all the files and re-upload the resulting single zip file, using the application http://drp-upload.herokuapp.com/
-  -  Note that files beyond 5 Gigs cannot be uploaded through this method
-    - Please talk to your DataRescue guide, if you have a larger file
-  - Quality assurance, to ensure that the zip file was uploaded successfully, go to the URL and download the it back to your laptop. 
-  - Unzip it, open it and spot check to make sure that all the files are there and seem valid.
+- Re-uploading
+  - If you have made any changes to the dataset, zip the all the files and re-upload the resulting single zip file, using the application http://drp-upload.herokuapp.com/
+    -  Note that files beyond 5 Gigs cannot be uploaded through this method
+      - Please talk to your DataRescue guide, if you have a larger file
+  - Quality assurance: 
+    - to ensure that the zip file was uploaded successfully, go to the URL and download the it back to your laptop. 
+    - Unzip it, open it and spot check to make sure that all the files are there and seem valid.
+  
+- Finishing up
+  - In the Uncrawlable spreadsheet, briefly describe any change you have made in cell "Any Changes?" in Checker section
   - In the Uncrawlable spreadsheet, change the status to "Closed" in the cell "Checker status indicator", for instance: 
   ```
   @khdelphine closed 1/22/2017
