@@ -1,6 +1,6 @@
 # BAGGING
 
-- When getting started as a Bagger
+- Getting set up as a Bagger
   - Get set up with Python and the Python script to make a bag at the command line https://github.com/LibraryOfCongress/bagit-python
   - Get set up wit the app http://drp-upload-bagger.herokuapp.com/
     - This include getting an account for the app and being vetted for the Bagger role.
