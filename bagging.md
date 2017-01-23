@@ -1,4 +1,4 @@
-# BAGGING
+# Baggers
 
 - Getting set up as a Bagger
   - Talk to your DataRescue guide to make sure you can become a Bagger.
