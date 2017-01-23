@@ -4,7 +4,7 @@ The Seeders and Sorters team canvases the resources of a given government agency
 The best source of information about the seeding and sorting process is represented at [https://envirodatagov.org/](https://envirodatagov.org/).
 
 
-* The *Seeders and Sorters* team canvases the resources of a given government
+- The *Seeders and Sorters* team canvases the resources of a given government
   agency, identifying important URLs. They sort them by whether their data
   can be automatically captured by the Internet Archive webcrawler (about which
   more
@@ -19,4 +19,6 @@ The best source of information about the seeding and sorting process is represen
   This sorting is only provisional: when in doubt seeders mark a URL as possibly
   *not* crawlable, and these URLs populate a spreadsheet.
   
-* If a URL does not seem crawlable, it is added to the Unscrawlable spreadsheet (Cell "Original URL").
+- If a URL does not seem crawlable:
+  - It is added to the Unscrawlable spreadsheet (Cell "Original URL").
+  - A unique identifyer (UUID) is generated for this dataset. the web-based tool UUID Generator can generate individual or multiple UUID's.
