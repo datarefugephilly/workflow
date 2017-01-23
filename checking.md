@@ -9,7 +9,7 @@
     - This include getting an account for the app and getting the account ok'd by the DataRescue guide.
   - Contact your DataRescue guide, if you need any assistance.
 
-- Claiming a dataset for checking step 
+- Claiming a dataset for the checking step 
   - You will work on datasets that were harvested by Harvesters. 
   - Go to the Unscrawlable spreadsheet, and look for a dataset that has the status "Harvester status indicator" = Closed
   - Claim it by entering your slack handle with the status "Open" and today's date in the cell "Checker status indicator" in Checker section, for instance: 
