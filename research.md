@@ -69,6 +69,7 @@ Search for related URLS in the pipeline that might would be covered by the same 
 ## Finishing up
 - In the Uncrawlable spreadsheet, briefly describe the method used for harvesting in cell "Method Used" in Harvester section
 - In the Uncrawlable spreadsheet, change the status to "Closed" in the cell "Researcher status indicator", for instance: 
+
   ```
   @khdelphine closed 1/22/2017
   ```
