@@ -31,4 +31,15 @@
   - You should add any missing file or metadata information to the dataset
   - Please refer to the [Harvesting Tookit](https://github.com/datarefugephilly/workflow/tree/FinalizeRemote-Delphine/harvesting-toolkit) for more details
  
-- If you have made any changes to the dataset, zip the all the files and re-upload the resulting single zip file, using the 
+- If you have made any changes to the dataset, zip the all the files and re-upload the resulting single zip file, using the application http://drp-upload.herokuapp.com/
+  -  Note that files beyond 5 Gigs cannot be uploaded through this method
+    - Please talk to your DataRescue guide, if you have a larger file
+  - Quality assurance, to ensure that the zip file was uploaded successfully, go to the URL and download the it back to your laptop. 
+  - Unzip it, open it and spot check to make sure that all the files are there and seem valid.
+  - In the Uncrawlable spreadsheet, change the status to "Closed" in the cell "Checker status indicator", for instance: 
+  ```
+  @khdelphine closed 1/22/2017
+  ```
+    - If ever a day or more passed between since you originally claimed the item, update the date to today's date. 
+    - Note that if more than 2 days have passed since you claimed the dataset and it is still not closed, someone else can claim it in your place and start working on it
+      - This will avoid datasets being stuck in the middle of the workflow and not being finalized.
