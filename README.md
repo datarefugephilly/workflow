@@ -1,9 +1,11 @@
-# Overview
+# DataRescue Workflow -- Overview
 
-This document describes the process that a url/dataset goes through from the time it has been identified by a [seeder & sorter](https://github.com/datarefugephilly/workflow/blob/master/seednsort.md) as "uncrawlable" until it is made available as a record in the [datarefuge.org](http://www.datarefuge.org) ckan data catalog. The process involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
+This document describes the workflow we use in the [DataRefuge project](http://www.ppehlab.org/), both at in-person events and when people are working remotely. It explains the process that a url/dataset goes through from the time it has been identified by a [seeder & sorter](https://github.com/datarefugephilly/workflow/blob/master/seednsort.md) as "uncrawlable" until it is made available as a record in the [datarefuge.org](http://www.datarefuge.org) ckan data catalog. The process involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
 
-## [Before you begin](advance-work.md)
-Get a role assignment (e.g., Seeder, or Harvester), get account credentials needed for your role, and go over the workflow corresponding to your role. 
+## Before you begin
+We are so glad that you are participating in this project!
+- If you are an event organizer: learn about [what you need to do to prepare the event](advance-work.md).
+- If you are a regular participant: get a role assignment (e.g., Seeder, or Harvester), get account credentials needed for your role, and go over the workflow corresponding to your role. 
 
 ## Plan Overview
 ### 1. [Seeders/Sorters](seednsort.md)
