@@ -5,18 +5,16 @@ Seeders and Sorters canvass the resources of a given government agency, identify
 # Choosing the website
 The Seeders/Sorters team will use the EDGI subprimer systems ([found here](https://envirodatagov.org/agency-forecasts/)), or a similar set of resources, to identify important/at risk data. Talk to the DataRescue organizers to learn more.
 
-# Canvassing the website
-- Canvass the resources of a given government agency, identifying important URLs. 
-They sort them by whether their data can be automatically captured by the Internet Archive webcrawler (about which more here and here).
+## Canvassing the website and evaluating content
+- Start exploring the website assigned, identifying important URLs. 
+- Decide whether their data on a page or website subsection can be [automatically captured by the Internet Archive webcrawler](./what-heritrix-does.md).
+- The best source of information about the seeding and sorting process is represented at [https://envirodatagov.org/](https://envirodatagov.org/).
  
-URLs judged to be possibly crawlable are "nominated" (equivalently, "seeded") using our Chrome extension or bookmarklet. This sorting is only provisional: when in doubt seeders mark a URL as possibly not crawlable, and these URLs populate a spreadsheet.
-The best source of information about the seeding and sorting process is represented at [https://envirodatagov.org/](https://envirodatagov.org/).
+## Crawlable URLs 
+- URLs judged to be possibly crawlable are "nominated" (equivalently, "seeded") to the End-Of-Term project (EOT), using the [EDGI Nomination Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en)
+ - This sorting is only provisional: when in doubt seeders mark a URL as possibly not crawlable, and these URLs populate a spreadsheet.
 
- Individual events should set up spreadsheets or other tools in which search efforts can be recorded. The work of this group includes:
-
-- Canvassing the resources of a given government agency, identifying important URLs.
-- Identifying whether those URL's [can be crawled by the Internet Archive's webcrawler](./what-heritrix-does.md)
-    - If URL's are crawlable, nominate them to the EOT crawl using the [EDGI Nomination Tool](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en)
+   
     - If they are not crawlable, add them to the "Uncrawlable" spreadsheet through the Chrome Extension. 
 
 
