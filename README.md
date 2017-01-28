@@ -1,6 +1,19 @@
 # DataRescue Workflow -- Overview
 
-This document describes the workflow we use for the [DataRefuge project](http://www.ppehlab.org/), both at in-person events and when people work remotely. It explains the process that a url/dataset goes through from the time it has been identified by a [seeder & sorter](https://github.com/datarefugephilly/workflow/blob/master/seednsort.md) as "uncrawlable" until it is made available as a record in the [datarefuge.org](http://www.datarefuge.org) ckan data catalog. The process involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
+This document describes the workflow we use for the [DataRefuge project](http://www.ppehlab.org/), both at in-person events and when people work remotely.
+
+## Our Approach
+
+The [Internet Archive](https://archive.org/) already has an infrastructure in
+place for archiving simple web content. At the end of a US presidential term,
+the IA makes a [particular effort](http://eotarchive.cdlib.org/2016.html) to
+capture US government websites (.gov and .mil). When possible, we leverage these
+resources: we direct the Internet Archive to important pages to be captured.
+Some web resources cannot be effectively captured by the IA, such as
+interactive content or large structued data sets. These we capture manually,
+label in a standard way, and upload to a ckan data catalog.
+
+This document explains the process that a url/dataset goes through from the time it has been identified by a [seeder & sorter](https://github.com/datarefugephilly/workflow/blob/master/seednsort.md) as "uncrawlable" until it is made available as a record in the [datarefuge.org](http://www.datarefuge.org) ckan data catalog. The process involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
 
 ## Before you begin
 We are so glad that you are participating in this project!
