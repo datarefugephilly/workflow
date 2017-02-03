@@ -1,6 +1,7 @@
 # DataRescue Workflow -- Overview
 
-This document describes the workflow we use for the [DataRefuge project](http://www.ppehlab.org/), both at in-person events and when people work remotely. It explains the process that a url/dataset goes through from the time it has been identified by a [seeder & sorter](seednsort.md) as "uncrawlable" until it is made available as a record in the [datarefuge.org](http://www.datarefuge.org) ckan data catalog. The process involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
+This document describes the workflow used at in-person events and remotely to move data into [datarefuge.org](http://www.datarefuge.org). It explains the process that a url/dataset goes through after it has been identified as vulnerable, either by a researcher, or by a [seeder & sorter](seednsort.md) at an event marking it as "uncrawlable." The process of moving the information from the website into the CKAN dat catalog at [datarefuge.org](http://www.datarefuge.org) involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with expertise in the area they're tackling, while the data is always being tracked for security.
+
 
 ## Before you begin
 We are so glad that you are participating in this project!
