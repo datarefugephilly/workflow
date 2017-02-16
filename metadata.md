@@ -66,7 +66,7 @@ The `URL` is the link to examine and harvest, and the `UUID` is a canonical ID w
 ## Finishing up
 **Note: these features have not yet been implemented in the Archivers app. It should be there shortly.**
 - In the Archivers app, add URL to the CKAN record in cell "CKAN record URL"
-   - The syntax will be "https://www.datarefuge.org//dataset/[datasetNameGeneratedByCkan]
+   - The syntax will be "https://www.datarefuge.org//dataset/[datasetNameGeneratedByCkan]"
 - Check the Describe checkbox (on the right-hand side) to mark that step as completed. 
 - Click `Save`.
 - Click `Check in URL`, to release it and allow someone else to work on the next step. 
