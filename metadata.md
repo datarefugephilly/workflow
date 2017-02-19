@@ -74,6 +74,7 @@ These sites will help you obtain federally-sourced metadata that can be
     - Link: Bag URL, e.g., "https://drp-upload-bagger.s3.amazonaws.com/remote/77DD634E-EBCE-412E-88B5-A02B0EF12AF6_2.zip"
     - Name: filename, e.g., "77DD634E-EBCE-412E-88B5-A02B0EF12AF6_2.zip"
     - Format: select "Zip"
+    - NOTE: There is a question about whether or not we should upload the JSON metadata file as a separate upload file alongside the zipped bag. This might make it easier down the road to systematically harvest package metadata for archived data sets. There are examples of packages with and without JSON files saved alongside the zipped package. Should we determine a SOP for this???
   - Click "Finish"
   - Test that the link you just created work by clicking it, and verifying that the file begins to download. 
     - Note that you don't need to finish downloading it again.
