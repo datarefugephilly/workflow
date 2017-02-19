@@ -68,9 +68,6 @@ These sites will help you obtain federally-sourced metadata that can be
 - ATRAC
 	- https://www.ncdc.noaa.gov/atrac/index.html
 
-## Improperly Bagged Files
-Uncheck certified box, put a note in the bagging notes indicating that the describers do not believe the files are properly packaged. (Proposed addition to the process because there has been considerable confusion between baggers and describers on what is ready, certified) 
-
 ## Linking the CKAN record to the bag:
   - Click "Next: Add Data" at the bottom of the CKAN form
   - Enter the following information:
