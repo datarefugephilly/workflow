@@ -35,12 +35,15 @@ The `URL` is the link to examine and harvest, and the `UUID` is a canonical ID w
 - The file should start downloading
 - When it is downloaded, unzip it 
 - Spot check some of the files (make sure they open and look normal, i.e., not garbled)
-- HOW DO YOU RESPOND TO SOMETHING THAT FAILS QA?
+- If the file fails QA:
+  - Basically, it needs to go back to Bagging. 
+  - Uncheck the Bagging checkbox
+  - And make a note in the Bagging note field, explaining in what way the bag failed QA and could a bagger please fix the issue. 
 
 ## Create new record in CKAN
-- N.B.: Make sure your organization is in the available list, otherwise you will have to start over again.
 - Go to [CKAN](https://www.datarefuge.org/) and click Organizations in the top menu
 - Choose the organization (i.e., federal agency) that your dataset belongs to, for instance: `NOAA`, and click it.
+  - If the Organization you need does not exist yet, create it by clicking `Add Organization`
 - Click "Add Dataset"
 - Start entering metadata in the new record, following the metadata template below.  
   - Title: title of dataset, e.g., "Form EIA-411 Data"
@@ -74,7 +77,6 @@ Uncheck certified box, put a note in the bagging notes indicating that the descr
     - Link: Bag URL, e.g., "https://drp-upload-bagger.s3.amazonaws.com/remote/77DD634E-EBCE-412E-88B5-A02B0EF12AF6_2.zip"
     - Name: filename, e.g., "77DD634E-EBCE-412E-88B5-A02B0EF12AF6_2.zip"
     - Format: select "Zip"
-    - NOTE: There is a question about whether or not we should upload the JSON metadata file as a separate upload file alongside the zipped bag. This might make it easier down the road to systematically harvest package metadata for archived data sets. There are examples of packages with and without JSON files saved alongside the zipped package. Should we determine a SOP for this???
   - Click "Finish"
   - Test that the link you just created work by clicking it, and verifying that the file begins to download. 
     - Note that you don't need to finish downloading it again.
