@@ -35,8 +35,10 @@ The `URL` is the link to examine and harvest, and the `UUID` is a canonical ID w
 - The file should start downloading
 - When it is downloaded, unzip it 
 - Spot check some of the files (make sure they open and look normal, i.e., not garbled)
+- HOW DO YOU RESPOND TO SOMETHING THAT FAILS QA?
 
 ## Create new record in CKAN
+- N.B.: Make sure your organization is in the available list, otherwise you will have to start over again.
 - Go to [CKAN](https://www.datarefuge.org/) and click Organizations in the top menu
 - Choose the organization (i.e., federal agency) that your dataset belongs to, for instance: `NOAA`, and click it.
 - Click "Add Dataset"
@@ -44,7 +46,7 @@ The `URL` is the link to examine and harvest, and the `UUID` is a canonical ID w
   - Title: title of dataset, e.g., "Form EIA-411 Data"
   - Description: Usually copied and pasted description found on webpage
   - Tags: basic descriptive keywords, e.g., "electric reliability", "electricity", "power systems"
-  - License:  choose value in dropdown
+  - License:  choose value in dropdown. If there is no indicated license, select 'Other - Public Domain'
   - Organization: choose value in dropdown, e.g., "United States Department of Energy"
   - Visibility: select "Public"
   - Source: URL where site is live, also in JSON, e.g., "http://www.eia.gov/electricity/data/eia411/"
@@ -52,11 +54,20 @@ The `URL` is the link to examine and harvest, and the `UUID` is a canonical ID w
     - Open JSON file that is in the bag you have downloaded; it contains some of the metadata you need
     - Go to the original location of the item on the federal agency website (found in the Json file), to find more more facts about the item such as description, title of the dataset, etc. 
     	- Alternatively, you can also open the html file that should be included in the bag and is a copy of that original main page. 
+
 ## Enhancing Existing Metadata
 These sites will help you obtain federally-sourced metadata that can be 
 - EPA
--- https://www.epa.gov/enviro/facility-registry-service-frs
--- https://edg.epa.gov/metadata/catalog/main/home.page
+	- https://www.epa.gov/enviro/facility-registry-service-frs
+	- https://edg.epa.gov/metadata/catalog/main/home.page
+- GCMD Keywords
+	- wiki.earthdata.nasa.gov/display/cmr/gcmd+keyword+access
+- ATRAC
+	- https://www.ncdc.noaa.gov/atrac/index.html
+
+## Improperly Bagged Files
+Uncheck certified box, put a note in the bagging notes indicating that the describers do not believe the files are properly packaged. (Proposed addition to the process because there has been considerable confusion between baggers and describers on what is ready, certified) 
+
 ## Linking the CKAN record to the bag:
   - Click "Next: Add Data" at the bottom of the CKAN form
   - Enter the following information:
@@ -76,4 +87,18 @@ These sites will help you obtain federally-sourced metadata that can be
 - Click `Save`.
 - Click `Check in URL`, to release it and allow someone else to work on the next step. 
 
-  
+## JSON Viewers
+- http://www.jsoneditoronline.org/
+- http://jsonviewer.stack.hu/
+
+## FEEDBACK
+- DONE tab should read DESCRIBE, there should be a separate listing for things that are harvested, checked, bagged, and described
+- "Convenience Copy" of the JSON metadata file at the top level of the CKAN record so that users (both human and system) can easily extract and index JSON metadata.
+- Add stage in workflow that accomodates searching for additional metadata in federal repositories (official metadata, not created by volunteers) referenced in "Enhancing Existing Metadata" section recommended here
+- Individual users for datarefuge.org database
+- column for describers in archives.space
+- allgov.com/departments should be used for adding additional agencies
+- Better workflow for granting permissions
+-- have a point person for an event that can grant a variety of authorization
+-- clearer identities for varied access (super low level, intermediary, admin)
+-
