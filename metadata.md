@@ -52,7 +52,11 @@ The `URL` is the link to examine and harvest, and the `UUID` is a canonical ID w
     - Open JSON file that is in the bag you have downloaded; it contains some of the metadata you need
     - Go to the original location of the item on the federal agency website (found in the Json file), to find more more facts about the item such as description, title of the dataset, etc. 
     	- Alternatively, you can also open the html file that should be included in the bag and is a copy of that original main page. 
-    
+## Enhancing Existing Metadata
+These sites will help you obtain federally-sourced metadata that can be 
+- EPA
+-- https://www.epa.gov/enviro/facility-registry-service-frs
+-- https://edg.epa.gov/metadata/catalog/main/home.page
 ## Linking the CKAN record to the bag:
   - Click "Next: Add Data" at the bottom of the CKAN form
   - Enter the following information:
