@@ -87,18 +87,7 @@ Uncheck certified box, put a note in the bagging notes indicating that the descr
 - Click `Save`.
 - Click `Check in URL`, to release it and allow someone else to work on the next step. 
 
-## JSON Viewers
+## Tools possibly of use: JSON Viewers
 - http://www.jsoneditoronline.org/
 - http://jsonviewer.stack.hu/
 
-## FEEDBACK
-- DONE tab should read DESCRIBE, there should be a separate listing for things that are harvested, checked, bagged, and described
-- "Convenience Copy" of the JSON metadata file at the top level of the CKAN record so that users (both human and system) can easily extract and index JSON metadata.
-- Add stage in workflow that accomodates searching for additional metadata in federal repositories (official metadata, not created by volunteers) referenced in "Enhancing Existing Metadata" section recommended here
-- Individual users for datarefuge.org database
-- column for describers in archives.space
-- allgov.com/departments should be used for adding additional agencies
-- Better workflow for granting permissions
--- have a point person for an event that can grant a variety of authorization
--- clearer identities for varied access (super low level, intermediary, admin)
--
