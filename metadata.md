@@ -31,7 +31,7 @@ Describers creates a descriptive record in the DataRefuge CKAN repository for ea
 The `URL` is the link to examine and harvest, and the `UUID` is a canonical ID we use to connect the url with the data in question. The UUID will have been generated earlier earlier in the process. UUID stands for Universal Unique Identifier. 
 
 ## QA step 
-- In the Archivers app click on the `Bag URL` in the Done section.   
+- In the Archivers app click on the `Bag URL` in the Bag section of your dataset.   
 - The file should start downloading
 - When it is downloaded, unzip it 
 - Spot check some of the files (make sure they open and look normal, i.e., not garbled)
