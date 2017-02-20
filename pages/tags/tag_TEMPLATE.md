@@ -1,9 +1,9 @@
 ---
-title: "News"
-tagName: news
+title: "Name pages"
+tagName: name
 search: exclude
-permalink: tag_news.html
-sidebar: mydoc_sidebar
+permalink: tag_TEMPLATE.html
+sidebar:
 folder: tags
 ---
 {% include taglogic.html %}
