@@ -38,7 +38,7 @@ Before starting, your team should go through the following steps.
 ## Crawl vs. Harvest: storage location
 
 - The main triage point of the workflow is whether a URL can be automatically crawled, for instance by the Internet Archive, or whether it needs to be manually harvested.
-- The crawling process does not require any separate storage management, as the crawlable URLs are nominated to the Internet Archive, who will take care of the actual file storage after they have crawled the pages. See the [Seeders/Sorters documentation](seednsort.md) for more information on this process.
+- The crawling process does not require any separate storage management, as the crawlable URLs are nominated to the Internet Archive, who will take care of the actual file storage after they have crawled the pages. See the [Seeders/Sorters documentation](seeding.md) for more information on this process.
 - The datasets harvested through the harvest process and uploaded through are the Archivers app are stored on S3 storage managed by DataRefuge.
 - At this time there is no direct access to the files stored on S3 for security reason.
 
