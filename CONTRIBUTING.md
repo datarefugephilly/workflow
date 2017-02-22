@@ -24,6 +24,10 @@ We love improvements to our documentation! Our process for accepting changes has
 
 6. Once you have integrated comments, or waited for feedback, a Lieutenant should merge your changes in!
 
+## Incremental changes
+Note that it is better to submit incremental bite-size changes that are easier to review. 
+
+If you have in mind heavy changes, especially if they will affect the overall structure of the documentation, please discuss your plans with the other editors first.
 
 ## Viewing the final formatting as you edit
 
@@ -47,7 +51,7 @@ You can view changes via your browser at `http://127.0.0.1:8000`, by running the
 $ mkdocs serve
 ```
 
-**Note that Mkdocs enforces the Markdown syntax strictly, please refer to this [Markdown guide](https://guides.github.com/features/mastering-markdown/) for details.**
+**Note that Mkdocs enforces the Markdown syntax strictly, please refer to [this Markdown guide](https://guides.github.com/features/mastering-markdown/), as well as [this one](http://www.mkdocs.org/user-guide/writing-your-docs/#markdown-extensions) for details.**
 
 
 
