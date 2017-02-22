@@ -18,7 +18,7 @@ We love improvements to our documentation! Our process for accepting changes has
 
         https://github.com/edgi-govdata-archiving/<repository-name>/pull/new/master
 
-4. Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign as a reviewer or ping (using "`@<username>`") a Lieutenant (someone able to merge in PRs) active on the project (all Lieutenants can be pinged via `@edgi-govdata-archiving/lieutenants`)
+4. Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign as a reviewer or ping (using "`@<username>`") a Lieutenant (someone able to merge in PRs) active on the project (all Lieutenants can be pinged via `@datarefuge/lieutenants`)
 
 5. Allow others sufficient **time for review and comments** before merging. We make use of GitHub's review feature to to comment in-line one PRs when possible. There may be some fixes or adjustments you'll have to make based on feedback.
 
