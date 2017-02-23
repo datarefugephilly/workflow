@@ -51,11 +51,11 @@ You can view changes via your browser at `http://127.0.0.1:8000`, by running the
 $ mkdocs serve
 ```
 
-Once a pull request has been merged into master, the gh-pages need to be regenerated. To do that, go to your local master branch and run 
+**Note that Mkdocs enforces the Markdown syntax strictly, please refer to [this Markdown guide](https://guides.github.com/features/mastering-markdown/), as well as [this one](http://www.mkdocs.org/user-guide/writing-your-docs/#markdown-extensions) for details.**
+
+Once a pull request has been merged into master, the gh-pages need to be regenerated. To do that, go to your local master branch at the command line and run: 
 ```
 mkdocs gh-deploy
 ```
-
-**Note that Mkdocs enforces the Markdown syntax strictly, please refer to [this Markdown guide](https://guides.github.com/features/mastering-markdown/), as well as [this one](http://www.mkdocs.org/user-guide/writing-your-docs/#markdown-extensions) for details.**
 
 _These guidelines are based on [Toronto Mesh](https://github.com/tomeshnet) and [EDGI's](https://github.com/edgi-govdata-archiving)._
