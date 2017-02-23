@@ -44,7 +44,7 @@ For in-depth information on tools and techniques to harvest open data, please ch
 
 <div class = "note">
   <strong>Note: URL vs UUID</strong> <br />  
-  The <code>URL</code> is the link to examine and harvest, and the <code>UUID</code> is a canonical ID we use to connect the URL with the data in question. The UUID will have been generated earlier earlier in the process. UUID stands for Universal Unique Identifier.
+  The <code>URL</code> is the link to examine and harvest, and the <code>UUID</code> is a canonical ID we use to connect the URL with the data in question. The UUID will have been generated earlier in the process. UUID stands for Universal Unique Identifier.
 </div>
 
 ## 2a. Classify Source Type & Archivability
