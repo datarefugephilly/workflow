@@ -15,7 +15,7 @@ Checkers inspect a harvested dataset and make sure that it is complete. The main
     - Note also that you should be willing to have your real name be associated with the datasets, to follow archival best practices (see [guidelines on archival best practices for Data Refuge](http://www.ppehlab.org/blogposts/2017/2/1/data-refuge-rests-on-a-clear-chain-of-custody) for more information).
 - The organizers of the event (in-person or remote) will send you an invite to the [Archivers app](http://www.archivers.space/), which helps us coordinate all the data archiving work we do.
     - Click the invite link, and choose a user name and a password.
-- Make sure you have an account on the DataRefuge slack where people share expertise and answer each other's questions.
+- Make sure you have an account on the DataRefuge Slack where people share expertise and answer each other's questions.
     - Ask your event organizer to send you an invite.
 - You may also need some other software and utilities set up on your computer, depending on the methods you will use, if you need to harvest supplemental materials to add to a dataset.
 - If you need any assistance:

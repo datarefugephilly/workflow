@@ -20,7 +20,7 @@ Harvesters take the "uncrawlable" data and try to figure out how to actually cap
 ## Getting Set up as a Harvester
 
 - Skills recommended for this role: in general, Harvesters need to have some tech skills and a good understanding of harvesting goals.
-- The organizers of the event (in-person or remote) will tell you how to volunteer for the Harvester role, either through slack or a form.
+- The organizers of the event (in-person or remote) will tell you how to volunteer for the Harvester role, either through Slack or a form.
     - As a result, they will send you an invite to the [Archivers app](http://www.archivers.space/), which helps us coordinate all the data archiving work we do.
     - Click the invite link, and choose a user name and a password.
 - Create an account on the DataRefuge Slack using this [slack-in](https://rauchg-slackin-qonsfhhvxs.now.sh/) (or use the Slack team recommended by your event organizers). This is where people share expertise and answer each other's questions. 

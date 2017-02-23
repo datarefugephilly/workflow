@@ -9,7 +9,7 @@ Before starting, your team should go through the following steps.
 ## The Basics
 
 - Read through the entire workflow documentation.
-- Sign up for the DataRefuge slack and make sure there's a channel for your event.
+- Sign up for the DataRefuge Slack and make sure there's a channel for your event.
 - Define your teams. They are usually: Seeders, Researchers, Harvesters, Checkers, Baggers, and Describers. Although in some cases, some of the roles can be conflated
     - In particular, we recommend that Researchers and Harvesters work very closely with each other, e.g. in pairs or small groups. In some cases, a single person might be both a Researcher and a Harvester.
     - Each team should have team leaders, aka "guides".
@@ -61,7 +61,7 @@ Before starting, your team should go through the following steps.
 ## Credentials
 
 - The Researchers/Harvesters/Checkers/Baggers need to have an account on the [Archivers app](http://www.archivers.space/).
-    - You will need to generate invites for each one [within the app](http://www.archivers.space/invites/new), and paste the URL generated in a slack Direct Message or email.
+    - You will need to generate invites for each one [within the app](http://www.archivers.space/invites/new), and paste the URL generated in a Slack Direct Message or email.
     - Each participant invited will automatically "belong" to your event in the app.
 - Checkers and Baggers need to be given explicit privileges in the app to have access to the Checking (i.e. "Finalize") and Bagging sections.
 - Seeders do not need access to the Archivers app.
