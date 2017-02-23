@@ -8,7 +8,7 @@ We love improvements to our documentation! Our process for accepting changes has
 
   Organization members should clone the upsteam repo, instead of working from a personal fork:
 
-      $ git clone git@github.com:datarefuge/<repository-name>.git
+      $ git clone git@github.com:datarefuge/workflow.git
 
 2. Create a **new branch** for the changes you want to work on. Choose a topic for your branch name that reflects the change:
 
@@ -16,13 +16,13 @@ We love improvements to our documentation! Our process for accepting changes has
 
 3. **Create or modify the files** with your changes. If you want to show other people work that isn't ready to merge in, commit your changes then create a pull request (PR) with _WIP_ or _Work In Progress_ in the title.
 
-        https://github.com/edgi-govdata-archiving/<repository-name>/pull/new/master
+        https://github.com/datarefuge/workflow/pull/new/master
 
-4. Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign as a reviewer or ping (using "`@<username>`") a Lieutenant (someone able to merge in PRs) active on the project (all Lieutenants can be pinged via `@datarefuge/lieutenants`)
+4. Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign as a reviewer or ping (using "`@<username>`"). For instance: @khdelphine or @liblaurie.
 
 5. Allow others sufficient **time for review and comments** before merging. We make use of GitHub's review feature to to comment in-line one PRs when possible. There may be some fixes or adjustments you'll have to make based on feedback.
 
-6. Once you have integrated comments, or waited for feedback, a Lieutenant should merge your changes in!
+6. Once you have integrated comments, or waited for feedback, your changes should get merged in!
 
 ## Incremental changes
 Note that it is better to submit incremental bite-size changes that are easier to review. 
@@ -52,9 +52,5 @@ $ mkdocs serve
 ```
 
 **Note that Mkdocs enforces the Markdown syntax strictly, please refer to [this Markdown guide](https://guides.github.com/features/mastering-markdown/), as well as [this one](http://www.mkdocs.org/user-guide/writing-your-docs/#markdown-extensions) for details.**
-
-
-
-
 
 _These guidelines are based on [Toronto Mesh](https://github.com/tomeshnet) and [EDGI's](https://github.com/edgi-govdata-archiving)._
