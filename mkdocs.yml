@@ -8,8 +8,6 @@ pages:
     - Checking/Bagging: bagging.md
     - Describing: describing.md
     - After the Event: after_the_event.md
-    - More: 
-        - Archivers App FAQ: faq.md
-        - Other Useful Documents: other_useful_docs.md
+    - Archivers App FAQ: faq.md
 theme: readthedocs
 theme_dir: custom_theme
