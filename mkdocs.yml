@@ -7,7 +7,6 @@ pages:
     - Harvesting: harvesting.md
     - Checking/Bagging: bagging.md
     - Describing: describing.md
-    - After the Event: after_the_event.md
     - Archivers App FAQ: faq.md
 theme: readthedocs
 theme_dir: custom_theme
