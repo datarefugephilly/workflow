@@ -26,7 +26,7 @@ Our process for accepting changes has a few steps.
 
         https://github.com/datarefuge/workflow/pull/new/master
 
-4. Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign a reviewer or ping those able to review (using "`@datarefuge/workflow`") and merge in PRs: @khdelphine, @dcwalk, @liblaurie or @titaniumbones.
+4. Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign a reviewer or ping (using "`@datarefuge/workflow`") those able to review and merge in PRs: @khdelphine, @dcwalk, @liblaurie or @titaniumbones.
 
 5. Allow others sufficient **time for review and comments** before merging. We make use of GitHub's review feature to to comment in-line one PRs when possible. There may be some fixes or adjustments you'll have to make based on feedback.
 
