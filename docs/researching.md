@@ -19,7 +19,7 @@ Researchers review "uncrawlables" identified during [Seeding](seeding.md), confi
 
 <div class = "note">
   <strong>Using Archivers App</strong> <br />  
-  Review our Walkthrough and refer to the <a href="/faq/">FAQ</a> for any additional questions on using the [Archivers app](http://www.archivers.space/). <br />
+  Review our walkthrough video below and refer to the <a href="/faq/">FAQ</a> for any additional questions about the <a href="http://www.archivers.space" target="_blank">Archivers app</a><!---_--->. <br />
   &nbsp;<br />
   <p style="text-align:center"><iframe width="520" height="315" src="https://www.youtube.com/embed/tvSSILnHnpA" frameborder="0" allowfullscreen></iframe></p>
 </div>
