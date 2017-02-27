@@ -28,7 +28,7 @@ Researchers inspect the "uncrawlable" list to confirm that Seeders' assessments 
 
 ### 3. [Harvesting](harvesting.md)
 
-Harvesters take the "uncrawlable" data and try to figure out how to actually capture it based on the recommendations of the Researchers. This is a complex task which can require substantial technical expertise, and` which` requires different techniques for different tasks. Harvesters should also review the [Harvesting Toolkit](https://github.com/edgi-govdata-archiving/harvesting-tools) for tools.
+Harvesters take the "uncrawlable" data and try to figure out how to actually capture it based on the recommendations of the Researchers. This is a complex task which can require substantial technical expertise and different techniques for different tasks. Harvesters should also review the [Harvesting Toolkit](https://github.com/edgi-govdata-archiving/harvesting-tools) for tools.
 
 ### 4. Checking
 
