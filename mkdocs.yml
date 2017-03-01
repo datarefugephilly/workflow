@@ -7,6 +7,7 @@ pages:
     - Harvesting: harvesting.md
     - Checking/Bagging: bagging.md
     - Describing: describing.md
+    - Crawlable: crawlable.md
     - Additional Resources:
       - Archivers App FAQ: faq.md
 theme: readthedocs
