@@ -1,12 +1,15 @@
 site_name: DataRescue Workflow
 pages:
     - Home: index.md
-    - Advance Work: advance-work.md
-    - Seeding: seeding.md
-    - Researching: researching.md
-    - Harvesting: harvesting.md
-    - Checking/Bagging: bagging.md
-    - Describing: describing.md
+    - DataRescue Steps:
+      - Seeding: seeding.md
+      - Researching: researching.md
+      - Harvesting: harvesting.md
+      - Checking/Bagging: bagging.md
+      - Describing: describing.md
+    - Event Organizing:
+      - Before an Event: organizing/pre-event.md
+      - After an Event: organizing/post-event.md
     - Additional Resources:
       - Archivers App FAQ: faq.md
 theme: readthedocs
