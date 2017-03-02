@@ -33,7 +33,7 @@ Harvesters take the "uncrawlable" data and try to figure out how to actually cap
 
 ### C. [Checking/Bagging](bagging.md)
 
-Checkers inspect a harvested dataset and make sure that it is complete. The main question the checkers need to answer is "will the bag make sense to a scientist"? Checkers need to have an in-depth understanding of harvesting goals and potential content variations for datasets. <br /> **Note: Checking is currently performed by Baggers and does not exist separately.**
+Checkers inspect a harvested dataset and make sure that it is complete. The main question the checkers need to answer is "will the bag make sense to a scientist"? Checkers need to have an in-depth understanding of harvesting goals and potential content variations for datasets. <br /> **Note: Checking is currently performed by Baggers and does not exist as a separate stage in the Archivers app.**
 
 Baggers perform some quality assurance on the dataset to make sure the content is correct and corresponds to the original URL. Then they package the data into a bagit file (or "bag"), which includes basic technical metadata, and upload it to the final DataRefuge destination.
 
