@@ -1,8 +1,9 @@
 site_name: DataRescue Workflow
 pages:
     - Home: index.md
-    - DataRescue Steps:
+    - Website Archiving:
       - Seeding: seeding.md
+    - Archiving More Complex Datasets:
       - Researching: researching.md
       - Harvesting: harvesting.md
       - Checking/Bagging: bagging.md
