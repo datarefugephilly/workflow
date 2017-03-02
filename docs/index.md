@@ -12,7 +12,7 @@ Learn about what you need to do to [before](/organizing/pre-event.md) and [after
 
 - Join the event Slack team recommended by event organizers, this is often the [DataRefuge Slack](https://rauchg-slackin-qonsfhhvxs.now.sh/). During the event people share expertise and answer each other's questions here.  
 - Pick your role from the paths below, get account credentials, and make sure you have access to the key documents and tools you need to work. Organizers will instruct you on these steps.
-- Review the relevant sections(s) workflow documentation below.
+- Review the relevant sections(s) of this workflow.
 
 ### Path I. Website Archiving
 
