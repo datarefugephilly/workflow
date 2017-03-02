@@ -18,7 +18,7 @@ This document describes DataRescue activities both at in-person events and remot
 
 ### 1. [Seeding](seeding.md)
 
-Seeders canvass the resources of a given government agency, identifying important URLs. They identify whether those URLs can be crawled by the Internet Archive's webcrawler. If the URLs are crawlable, the Seeders save them to the Internet Archive. Otherwise, they add them to the Archivers app using [the project's Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en).
+Seeders canvass the resources of a given government agency, identifying important URLs. They identify whether those URLs can be crawled by the [Internet Archive's](http://archive.org) webcrawler. If the URLs are crawlable, the Seeders save them to the Internet Archive. Otherwise, they add them to the Archivers app using [the project's Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en).
 
 ### 2. [Researching](researching.md)
 
