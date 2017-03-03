@@ -21,7 +21,7 @@ Describers create a descriptive record in the DataRefuge CKAN repository for eac
 - Get set up with Python and the [`bagit-python`](https://github.com/LibraryOfCongress/bagit-python) script to make a bag at the command line
 - If you need any assistance:
     - Talk to your DataRescue guide if you are at an in-person event.
-    - Or post questions on Slack in the Describers channel (or other channel recommended by your event organizers).
+    - Or post questions in the DataRefuge Slack `#describers` channel (or other channel recommended by your event organizers).
 
 ## Claiming a Bag
 
