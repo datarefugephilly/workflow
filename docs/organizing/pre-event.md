@@ -28,9 +28,9 @@ An EDGI coordinator will set up access to Agency Primer and Sub-primer documents
 
 <div class = "note">
   <strong>Crawl vs. Harvest: Where is the Data Stored?</strong> <br />  
-  The workflow is designed to triage whether a URL will be stored by the Internet Archive or in the <a href="https://www.datarefuge.org/" target="_blank">DataRefuge repository</a><!---_---> based on whether the it can be automatically crawled by the Internet Archive web crawler or instead it needs to be manually harvested.<br />
+  The workflow is designed to triage whether a URL will be stored by the Internet Archive or in the <a href="https://www.datarefuge.org/" target="_blank">DataRefuge repository</a><!---_---> based on whether it can be automatically crawled by the Internet Archive web crawler or needs to be manually harvested.<br />
   <ul>
-    <li>Nominating crawlable URLs makes use of Internet Archive's existing infrastructure. See the <a href="/seeding/">Seeding</a> for more information on this process.</li>
+    <li>Nominating crawlable URLs makes use of Internet Archive's existing infrastructure. See <a href="/seeding/">Seeding</a> for more information on this process.</li>
     <li>Datasets manually harvested are uploaded through the Archivers app to an Amazon S3 storage managed by DataRefuge.</li>
   </ul>
 </div>
