@@ -20,7 +20,7 @@ Baggers do some quality assurance on the dataset to make sure the content is cor
 - Get set up with Python and the [`bagit-python`](https://github.com/LibraryOfCongress/bagit-python) script to make a bag at the command line
 - If you need any assistance:
      - Talk to your DataRescue guide if you are at an in-person event.
-     - Or post questions on Slack in the `#baggers` channel (or other channel recommended by your event organizers).
+     - Or post questions in the DataRefuge Slack `#baggers` channel (or other channel recommended by your event organizers).
 
 ## Claiming a Dataset for Bagging
 
