@@ -35,12 +35,14 @@ Researchers review "uncrawlables" identified during [Seeding](seeding.md), confi
   <p style="text-align:center"><iframe width="520" height="315" src="https://www.youtube.com/embed/tvSSILnHnpA" frameborder="0" allowfullscreen></iframe></p>
 </div>
 
--   Researchers work on datasets that were listed as uncrawlable by Seeders.
--   Go to the [Archivers app](http://www.archivers.space/), click `URLS` and then `RESEARCH`: all the URLs listed are ready to be researched.
+-   Researchers work on datasets that have been marked as uncrawlable by Seeders.
+-   Go to the [Archivers app](https://www.archivers.space/urls?phase=research), click **URLS** and then <a href="https://www.archivers.space/urls?phase=research" target="_blank">**RESEARCH**</a><!--_-->
     -   Available URLs are ones that have not been checked out by someone else, i.e. that do not have someone's name in the User column.
-    -   Priority is indicated by the “!” field.  The range is from 0 to 10, with 10 being highest priority.
--   Select an available URL (you may decide to select a URL relevant to your area of expertise or assigned a high priority) and click its UUID to get to the detailed view, then click `Checkout this URL`. It is now ready for you to work on, and no one else can do anything to it while you have it checked out.
--   While you go through the research process, make sure to report as much information as possible in the Archivers app, as this is the place were we collectively keep track of all the work done.
+    -   Priority is indicated from 0 to 10 in the “**!**” column, with 10 being the highest priority.
+    <img src="/img/research-00-overview-homepage.png" /><br />&nbsp;<br />
+
+-   Click the UUID of an available URL (you may decide to select a URL relevant to your area of expertise or assigned a high priority) to get to a UUID detailed view, then click `Checkout this URL`. It is now ready for you to work on, and no one else can do anything to it while you have it checked out.
+-   While you go through the research process, add in as much information as possible in the Archivers app, as this is the place were we collectively keep track of all the work done.
 
 <div class = "note">
   <strong>URL vs UUID</strong> <br />  
