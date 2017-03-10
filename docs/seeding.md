@@ -21,7 +21,7 @@ Seeders use the [EDGI Archiving Primers](https://envirodatagov.org/archiving/), 
 
 ### Crawlable URLs
 
-- URLs judged to be crawlable are saved ("seeded") to the Internet Archive, using the [EDGI Nomination Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en).
+- URLs judged to be crawlable are nominated ("seeded") to the Internet Archive, using the [EDGI Nomination Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en).
 
 **Wherever possible, add in the Agency Office Code from the sub-primer.** Talk to the DataRescue organizers to learn more.
 
