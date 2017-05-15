@@ -36,19 +36,16 @@ For in-depth information on tools and techniques to harvest open data, please ch
 
 <div class = "note">
   <strong>Using Archivers App</strong> <br />  
-  Review our walkthrough video below and refer to the <a href="/faq/">FAQ</a> for any additional questions about the <a href="http://www.archivers.space" target="_blank">Archivers app</a><!---_--->. <br />
+  Review our walkthrough video below and refer to the <a href="/faq/">FAQ</a> for any additional questions about the <a href="http://www.archivers.space" target="_blank">Archivers app</a><!--_-->. <br />
   &nbsp;<br />
-  <p style="text-align:center"><iframe width="520" height="315" src="https://www.youtube.com/embed/tvSSILnHnpA" frameborder="0" allowfullscreen></iframe></p>
+  <p style="text-align:center"><iframe width="80%" height="315" src="https://www.youtube.com/embed/tvSSILnHnpA" frameborder="0" allowfullscreen></iframe></p>
 </div>
 
--   Harvesters work on datasets confirmed as uncrawlable by Researchers.
--   Go to the [Archivers app](https://www.archivers.space/urls?phase=harvest), click **URLS** and then <a href="https://www.archivers.space/urls?phase=harvest" target="_blank">**HARVEST**</a><!--_-->
-    -   Available URLs are ones that have not been checked out by someone else, i.e. that do not have someone's name in the User column.
-    -   Priority is indicated from 0 to 10 in the “**!**” column, with 10 being the highest priority.
-     <img src="/img/harvest-00-overview-homepage.png" /><br />&nbsp;<br />
-
--   Click the UUID of an available URL then click `Checkout this URL`. It is now ready for you to work on, and no one else can do anything to it while you have it checked out.
--   While you go through the harvesting process, add in as much information as possible in the Archivers app, as this is the place were we collectively keep track of all the work done.
+-   You will work on datasets that were confirmed as uncrawlable by Researchers.
+-   Go to the [Archivers app](http://www.archivers.space/), click `URLS` and then `HARVEST`: all the URLs listed are ready to be harvested.
+     - Available URLs are the ones that have not been checked out by someone else, i.e. that do not have someone's name in the User column.
+-   Select an available URL and click its UUID to get to the detailed view, then click `Checkout this URL`. It is now ready for you to work on, and no one else can do anything to it while you have it checked out.
+-   While you go through the harvesting process, make sure to report as much information as possible in the Archivers app, as this is the place were we collectively keep track of all the work done.
 
 <div class = "note">
   <strong>URL vs UUID</strong> <br />  
@@ -70,6 +67,8 @@ Before doing anything, take a minute to understand what you're looking at. It's 
 #### Check for False-Positives (Content That Is in Fact Crawlable)
 
 Generally, any URL that returns standard HTML, links to more [HTML mimetype pages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types), and contains little-to-no non-HTML content, is crawlable. "View source" from your browser of choice will help see what the crawler itself is seeing. If in fact the data can be crawled, nominate it to the Internet Archive using the [EDGI Nomination Chrome Extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok), click the `Do not harvest` checkbox in the Research section of the Archivers app, click `Checkin this URL`, and move on to another URL.
+
+A written guide on using the Chrome Nomination tool, the EDGI Primer Database, and a video tutorial are available [in Seeders' Documentation](seeding/#crawlable-urls). 
 
 #### Some Things to Think About While Reviewing a URL
 

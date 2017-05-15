@@ -1,6 +1,6 @@
 ## What Do Seeders Do?
 
-Seeders canvass the resources of a given government agency, identifying important URLs and whether those URLs can be crawled by the Internet Archive's web crawler. They use the [EDGI Nomination Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en) to nominate URLs to the [End of Term (EOT) Web Archive](http://eotarchive.cdlib.org/2016.html) if they are crawlable or to the Archivers app if they require manual archiving.
+Seeders canvass the resources of a given government agency, identifying important URLs. They identify whether those URLs can be crawled by the [Internet Archive's](http://archive.org) web crawler. Using the [EDGI Nomination Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en), Seeders nominate crawlable URLs to the Internet Archive or add them to the Archivers app if they require manual archiving.
 
 <div class = "note">
   <strong>Recommended Skills</strong> <br />  
@@ -21,9 +21,11 @@ Seeders use the [EDGI Archiving Primers](https://envirodatagov.org/archiving/), 
 
 ### Crawlable URLs
 
-- URLs judged to be crawlable are "nominated" (equivalently, "seeded") to the End of Term project (EOT), using the [EDGI Nomination Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en).
+- URLs judged to be crawlable are nominated ("seeded") to the Internet Archive, using the [EDGI Nomination Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok?hl=en).
 
-**Wherever possible, add in the Agency Office Code from the sub-primer.** Talk to the DataRescue organizers to learn more.
+To learn more about nominating URLs, refer to [this Google Doc](https://docs.google.com/document/d/1L_JYldCwCHxVEW_9nD6llWPtbh_VvPwp2UYE6cGE2g0/edit), watch this [training video on Agency Primers and EOT](https://youtu.be/Ro-f58Cecdg) or talk to the DataRescue organizers.
+
+**Wherever possible, add in the Agency Office Code from the [sub-primer database](https://envirodatagov.org/event-toolkit/primers-database/).** 
 
 ### Uncrawlable URLs
 
